@@ -1,0 +1,11 @@
+*venv
+.DS_Store
+*CSVs
+*.ipynb_checkpoints
+analysis_model.py
+cleaning.py
+*Data_Cleaning
+
+#Ignoring this file since it is so large
+all_data.csv
+

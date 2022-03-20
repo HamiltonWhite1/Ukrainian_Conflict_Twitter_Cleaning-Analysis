@@ -1,0 +1,8 @@
+# Data has been filtered according to key-word political affiliations present in Twitter user profiles. 
+# Right wing affiliation key-words are "Patriot", "Conservative", and "Libertarian"
+# Left wing affiliation key-words are "Liberal", "Socialist", "Communist"
+# The author is aware of the often vast ideological differences between self identified "Socialists|Communists" and "Liberals", and self identified "Conservatives" and "Libertarians"
+# While these categories more often do account for significant ideological differences in the United States political environment,  "Libertarians" are more easily classified with right wing political ideology and "Liberals" are more easily classified with left wing political ideology
+# There are many other key words that could be used to identify a right-wing or left-wing Twitter user, but this analysis has chosen the aforementioned six key-words, and will be move forward as such
+# This analaysis concedes that it is not an expert analysis or peer reviewed, and the deterministic nature of its findings should be contended
+
